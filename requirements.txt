@@ -1,0 +1,2 @@
+pyeloqua==0.2.91
+requests==2.11.1
