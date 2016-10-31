@@ -11,7 +11,6 @@ from csv import DictWriter
 
 ids = []
 
-#with open('20161101_engage.jboss.com_decommission.csv') as f:
 with open('test.csv') as f:
     for row in f:
         ids.append(str(row).replace('\n', ''))
